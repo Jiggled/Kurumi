@@ -1,0 +1,2 @@
+# Kurumi
+Discord Music Bot
