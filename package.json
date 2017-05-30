@@ -1,0 +1,14 @@
+{
+  "name": "kurumi",
+  "version": "0.0.1",
+  "description": "Rin's Discord bot",
+  "main": "kurumi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rin Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
